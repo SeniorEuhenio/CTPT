@@ -7,6 +7,7 @@ It is simple as it can be symmetric coding - decoding windows application
 ### Terms Of Use
 
 By using this software you agree to take any responsibility for whatever result it will be.
+
 Author(s) take NO responsibility for anything that might or might not happen.
 
 ### Terms Of Contribution
