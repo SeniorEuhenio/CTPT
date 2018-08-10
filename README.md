@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to CTPT
 
-You can use the [editor on GitHub](https://github.com/SeniorEuhenio/CTPT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this program freely to your purposes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is simple as it can be symmetric coding - decoding windows application
 
-### Markdown
+### Terms Of Use
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+By using this software you agree to take any responsibility for whatever result it will be.
+Author(s) take NO responsibility for anything that might or might not happen.
 
-```markdown
-Syntax highlighted code block
+### Terms Of Contribution
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeniorEuhenio/CTPT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Use separate branch and PR to fix or propose the change
+* By uploading the code (PR) you agree, that you are the solely author of it, and you are taking all responsibility and any liability for the uploaded code
+* Keep project OSS. Do onot use not OSS libraries
